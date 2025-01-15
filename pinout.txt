@@ -1,0 +1,5 @@
+GPIO01 (TXD0) - MCU_RX (7)
+GPIO03 (RXD0) - MCU_TX (6)
+GPIO02 - Status LED
+
+No datapoint reported, they have to be configured manualy!
