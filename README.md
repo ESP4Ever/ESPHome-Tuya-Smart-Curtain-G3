@@ -3,7 +3,7 @@
 ![](/pictures/3.jpg)
 
 # Smart Curtain Motor - Tuya to ESPHome conversion
-Built on WBR3 Tuya chip have to be replaced by a ESP8266-based module and ESP-M3 fits perfectly there.
+Built on WBR3 Tuya chip which have to be replaced by a ESP8266-based module and ESP-M3 fits perfectly there.
 
 WARNING:
   You have to flash the ESPHome image prior to the module installation because an onboard MCU uses same UART for communication and will interfere with programmer.
