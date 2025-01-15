@@ -1,6 +1,4 @@
 ![](/pictures/1.jpg)
-![](/pictures/2.jpg)
-![](/pictures/3.jpg)
 
 # Smart Curtain Motor - Tuya to ESPHome conversion
 Built on WBR3 Tuya chip which have to be replaced by a ESP8266-based module and ESP-M3 fits perfectly there.
@@ -10,7 +8,10 @@ WARNING:
   
   This model has an automatic end limits calibration which prevents it from use on some roller shutters/curtains without end bumps.
   After each power cycle it has to be recalibrated by full close-open cycle and when done, it starts to report its exact position.
-  
+
+![](/pictures/2.jpg)
+![](/pictures/3.jpg)
+
 What's inside:
 ![What's inside-3](/pictures/4.jpg)
 ![What's inside-3](/pictures/5.jpg)
