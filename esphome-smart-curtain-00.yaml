@@ -195,7 +195,7 @@ cover:
     min_value: 0
     max_value: 100
     position_report_datapoint: 3
-    direction_datapoint: 5
+
 
 ####################
 #      SELECT      #
