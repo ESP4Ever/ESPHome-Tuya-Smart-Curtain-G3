@@ -9,7 +9,7 @@ WARNING:
   You have to flash the ESPHome image prior to the module installation because an onboard MCU uses same UART for communication and will interfere with programmer.
   
   This model has an automatic end limits calibration which prevents it from use on some roller shutters/curtains without end bumps.
-  After each power cycle it has to be recalibrated by full close-open cycle, after that it starts to report its exact position.
+  After each power cycle it has to be recalibrated by full close-open cycle and when done, it starts to report its exact position.
   
 What's inside:
 ![What's inside-3](/pictures/4.jpg)
